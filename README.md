@@ -28,10 +28,10 @@ To clone and run this application, place from your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/isabelamoraes/ignite-reacjs-ignews.git
+$ git clone https://github.com/isabelamoraes/ignite-reactjs-ignews.git
 
 # Go into the repository
-$ cd ignite-reacjs-ignews
+$ cd ignite-reactjs-ignews
 
 # Install dependencies
 $ yarn
